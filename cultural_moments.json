@@ -1,0 +1,512 @@
+{
+  "0":{
+    "Date":null,
+    "Event":"Oscars",
+    "Category":"Awards",
+    "Keywords":"['oscars']"
+  },
+  "1":{
+    "Date":null,
+    "Event":"Met Gala",
+    "Category":"Awards",
+    "Keywords":"['met', 'gala']"
+  },
+  "2":{
+    "Date":null,
+    "Event":"Golden Globes",
+    "Category":"Awards",
+    "Keywords":"['golden', 'globes']"
+  },
+  "3":{
+    "Date":null,
+    "Event":"BAFTA",
+    "Category":"Awards",
+    "Keywords":"['bafta']"
+  },
+  "4":{
+    "Date":null,
+    "Event":"Grammys",
+    "Category":"Awards",
+    "Keywords":"['grammys']"
+  },
+  "5":{
+    "Date":null,
+    "Event":"Brits",
+    "Category":"Awards",
+    "Keywords":"['brits']"
+  },
+  "6":{
+    "Date":null,
+    "Event":"Soap awards",
+    "Category":"Awards",
+    "Keywords":"['soap']"
+  },
+  "7":{
+    "Date":null,
+    "Event":"Paris Fashion Week",
+    "Category":"Fashion",
+    "Keywords":"['paris', 'fashion']"
+  },
+  "8":{
+    "Date":null,
+    "Event":"Milan Fashion Week",
+    "Category":"Fashion",
+    "Keywords":"['milan', 'fashion']"
+  },
+  "9":{
+    "Date":null,
+    "Event":"New York fashion week",
+    "Category":"Fashion",
+    "Keywords":"['new', 'york', 'fashion']"
+  },
+  "10":{
+    "Date":null,
+    "Event":"London Fashion week",
+    "Category":"Fashion",
+    "Keywords":"['london', 'fashion']"
+  },
+  "11":{
+    "Date":null,
+    "Event":"Tokyo Fashion Week",
+    "Category":"Fashion",
+    "Keywords":"['tokyo', 'fashion']"
+  },
+  "12":{
+    "Date":null,
+    "Event":"Copenhagen fashion week",
+    "Category":"Fashion",
+    "Keywords":"['copenhagen', 'fashion']"
+  },
+  "13":{
+    "Date":null,
+    "Event":"Cannes film festival",
+    "Category":"Fashion",
+    "Keywords":"['cannes', 'film']"
+  },
+  "14":{
+    "Date":null,
+    "Event":"Olympics",
+    "Category":"Sports",
+    "Keywords":"['olympics']"
+  },
+  "15":{
+    "Date":null,
+    "Event":"Euros",
+    "Category":"Sports",
+    "Keywords":"['euros']"
+  },
+  "16":{
+    "Date":null,
+    "Event":"Tour De France",
+    "Category":"Sports",
+    "Keywords":"['tour', 'de', 'france']"
+  },
+  "17":{
+    "Date":null,
+    "Event":"SuperBowl",
+    "Category":"Sports",
+    "Keywords":"['superbowl']"
+  },
+  "18":{
+    "Date":null,
+    "Event":"Wimbledon",
+    "Category":"Sports",
+    "Keywords":"['wimbledon']"
+  },
+  "19":{
+    "Date":null,
+    "Event":"F1 Grand Prix",
+    "Category":"Sports",
+    "Keywords":"['grand', 'prix']"
+  },
+  "20":{
+    "Date":null,
+    "Event":"Rugby world cup",
+    "Category":"Sports",
+    "Keywords":"['rugby', 'world', 'cup']"
+  },
+  "21":{
+    "Date":null,
+    "Event":"Cricket world cup",
+    "Category":"Sports",
+    "Keywords":"['cricket', 'world', 'cup']"
+  },
+  "22":{
+    "Date":null,
+    "Event":"Oxford Cambridge boat race",
+    "Category":"Sports",
+    "Keywords":"['oxford', 'cambridge', 'boat', 'race']"
+  },
+  "23":{
+    "Date":null,
+    "Event":"Six nations rugby",
+    "Category":"Sports",
+    "Keywords":"['six', 'nations', 'rugby']"
+  },
+  "24":{
+    "Date":null,
+    "Event":"London Marathon",
+    "Category":"Sports",
+    "Keywords":"['london', 'marathon']"
+  },
+  "25":{
+    "Date":null,
+    "Event":"FIFA world cup",
+    "Category":"Sports",
+    "Keywords":"['fifa', 'world', 'cup']"
+  },
+  "26":{
+    "Date":null,
+    "Event":"CIPR excellence awards",
+    "Category":"PR and marketing awards",
+    "Keywords":"['cipr', 'excellence']"
+  },
+  "27":{
+    "Date":null,
+    "Event":"Drum awards",
+    "Category":"PR and marketing awards",
+    "Keywords":"['drum']"
+  },
+  "28":{
+    "Date":null,
+    "Event":"PRCA awards",
+    "Category":"PR and marketing awards",
+    "Keywords":"['prca']"
+  },
+  "29":{
+    "Date":null,
+    "Event":"PR week awards",
+    "Category":"PR and marketing awards",
+    "Keywords":"['pr']"
+  },
+  "30":{
+    "Date":null,
+    "Event":"Easter",
+    "Category":"Religious dates",
+    "Keywords":"['easter']"
+  },
+  "31":{
+    "Date":null,
+    "Event":"Shrove Tuesday",
+    "Category":"Religious dates",
+    "Keywords":"['shrove', 'tuesday']"
+  },
+  "32":{
+    "Date":null,
+    "Event":"Ash Wednesday",
+    "Category":"Religious dates",
+    "Keywords":"['ash', 'wednesday']"
+  },
+  "33":{
+    "Date":null,
+    "Event":"Chinese New Year",
+    "Category":"Religious dates",
+    "Keywords":"['chinese', 'new', 'year']"
+  },
+  "34":{
+    "Date":null,
+    "Event":"Ramadan",
+    "Category":"Religious dates",
+    "Keywords":"['ramadan']"
+  },
+  "35":{
+    "Date":null,
+    "Event":"Eid",
+    "Category":"Religious dates",
+    "Keywords":"['eid']"
+  },
+  "36":{
+    "Date":null,
+    "Event":"Diwali",
+    "Category":"Religious dates",
+    "Keywords":"['diwali']"
+  },
+  "37":{
+    "Date":null,
+    "Event":"hanukkah",
+    "Category":"Religious dates",
+    "Keywords":"['hanukkah']"
+  },
+  "38":{
+    "Date":null,
+    "Event":"Yom Kippur",
+    "Category":"Religious dates",
+    "Keywords":"['yom', 'kippur']"
+  },
+  "39":{
+    "Date":null,
+    "Event":"Mothers day",
+    "Category":"Religious dates",
+    "Keywords":"['mothers']"
+  },
+  "40":{
+    "Date":null,
+    "Event":"Fathers day",
+    "Category":"Religious dates",
+    "Keywords":"['fathers']"
+  },
+  "41":{
+    "Date":null,
+    "Event":"Glastonbury",
+    "Category":"Festivals",
+    "Keywords":"['glastonbury']"
+  },
+  "42":{
+    "Date":null,
+    "Event":"Edinburgh fringe",
+    "Category":"Festivals",
+    "Keywords":"['edinburgh', 'fringe']"
+  },
+  "43":{
+    "Date":null,
+    "Event":"Reading",
+    "Category":"Festivals",
+    "Keywords":"['reading']"
+  },
+  "44":{
+    "Date":null,
+    "Event":"Leeds",
+    "Category":"Festivals",
+    "Keywords":"['leeds']"
+  },
+  "45":{
+    "Date":null,
+    "Event":"Coachella",
+    "Category":"Festivals",
+    "Keywords":"['coachella']"
+  },
+  "46":{
+    "Date":null,
+    "Event":"Radio 1 big weekend",
+    "Category":"Festivals",
+    "Keywords":"['radio', 'big', 'weekend']"
+  },
+  "47":{
+    "Date":null,
+    "Event":"Download",
+    "Category":"Festivals",
+    "Keywords":"['download']"
+  },
+  "48":{
+    "Date":null,
+    "Event":"Creamfields",
+    "Category":"Festivals",
+    "Keywords":"['creamfields']"
+  },
+  "49":{
+    "Date":null,
+    "Event":"Latitude",
+    "Category":"Festivals",
+    "Keywords":"['latitude']"
+  },
+  "50":{
+    "Date":null,
+    "Event":"Truck",
+    "Category":"Festivals",
+    "Keywords":"['truck']"
+  },
+  "51":{
+    "Date":null,
+    "Event":"Burning man",
+    "Category":"Festivals",
+    "Keywords":"['burning', 'man']"
+  },
+  "52":{
+    "Date":null,
+    "Event":"Notting Hill Carnival",
+    "Category":"Festivals",
+    "Keywords":"['notting', 'hill', 'carnival']"
+  },
+  "53":{
+    "Date":null,
+    "Event":"Back to school",
+    "Category":"Events",
+    "Keywords":"['back', 'to', 'school']"
+  },
+  "54":{
+    "Date":null,
+    "Event":"Royal Ascot",
+    "Category":"Events",
+    "Keywords":"['royal', 'ascot']"
+  },
+  "55":{
+    "Date":null,
+    "Event":"Henley Regatta",
+    "Category":"Events",
+    "Keywords":"['henley', 'regatta']"
+  },
+  "56":{
+    "Date":null,
+    "Event":"Buckingham palace Garden Party",
+    "Category":"Events",
+    "Keywords":"['buckingham', 'palace', 'garden', 'party']"
+  },
+  "57":{
+    "Date":null,
+    "Event":"Chelsea Flower show",
+    "Category":"Events",
+    "Keywords":"['chelsea', 'flower', 'show']"
+  },
+  "58":{
+    "Date":null,
+    "Event":"Cheltenham",
+    "Category":"Events",
+    "Keywords":"['cheltenham']"
+  },
+  "59":{
+    "Date":null,
+    "Event":"Grand national",
+    "Category":"Events",
+    "Keywords":"['grand', 'national']"
+  },
+  "60":{
+    "Date":null,
+    "Event":"Trooping the colour",
+    "Category":"Events",
+    "Keywords":"['trooping', 'colour']"
+  },
+  "61":{
+    "Date":null,
+    "Event":"The BBC proms",
+    "Category":"Events",
+    "Keywords":"['bbc', 'proms']"
+  },
+  "62":{
+    "Date":null,
+    "Event":"Crufts",
+    "Category":"Events",
+    "Keywords":"['crufts']"
+  },
+  "63":{
+    "Date":null,
+    "Event":"Rememberance Sunday",
+    "Category":"Events",
+    "Keywords":"['rememberance', 'sunday']"
+  },
+  "64":{
+    "Date":null,
+    "Event":"Children in need",
+    "Category":"Events",
+    "Keywords":"['children', 'in', 'need']"
+  },
+  "65":{
+    "Date":null,
+    "Event":"Daylight savings",
+    "Category":"Events",
+    "Keywords":"['daylight', 'savings']"
+  },
+  "66":{
+    "Date":null,
+    "Event":"A level and GCSE results days",
+    "Category":"Events",
+    "Keywords":"['a', 'level', 'and', 'gcse', 'results', 'days']"
+  },
+  "67":{
+    "Date":null,
+    "Event":"End of daylight savings",
+    "Category":"Events",
+    "Keywords":"['end', 'daylight', 'savings']"
+  },
+  "68":{
+    "Date":null,
+    "Event":"Rememberance day",
+    "Category":"Events",
+    "Keywords":"['rememberance']"
+  },
+  "69":{
+    "Date":null,
+    "Event":"Black Friday",
+    "Category":"Events",
+    "Keywords":"['black', 'friday']"
+  },
+  "70":{
+    "Date":null,
+    "Event":"Cyber Monday",
+    "Category":"Events",
+    "Keywords":"['cyber', 'monday']"
+  },
+  "71":{
+    "Date":null,
+    "Event":"Christmas jumper day",
+    "Category":"Events",
+    "Keywords":"['christmas', 'jumper']"
+  },
+  "72":{
+    "Date":null,
+    "Event":"Strictly",
+    "Category":"Annual TV shows",
+    "Keywords":"['strictly']"
+  },
+  "73":{
+    "Date":null,
+    "Event":"Bake Off",
+    "Category":"Annual TV shows",
+    "Keywords":"['bake', 'off']"
+  },
+  "74":{
+    "Date":null,
+    "Event":"I'm a celebrity",
+    "Category":"Annual TV shows",
+    "Keywords":"['a', 'celebrity']"
+  },
+  "75":{
+    "Date":null,
+    "Event":"General election",
+    "Category":"Political events",
+    "Keywords":"['general', 'election']"
+  },
+  "76":{
+    "Date":null,
+    "Event":"G20 summit",
+    "Category":"Political events",
+    "Keywords":"['summit']"
+  },
+  "77":{
+    "Date":null,
+    "Event":"G7 summit",
+    "Category":"Political events",
+    "Keywords":"['summit']"
+  },
+  "78":{
+    "Date":null,
+    "Event":"COP 30",
+    "Category":"Political events",
+    "Keywords":"['cop']"
+  },
+  "79":{
+    "Date":null,
+    "Event":"NATO",
+    "Category":"Political events",
+    "Keywords":"['nato']"
+  },
+  "80":{
+    "Date":null,
+    "Event":"State Opening of Parliament",
+    "Category":"Political events",
+    "Keywords":"['state', 'opening', 'parliament']"
+  },
+  "81":{
+    "Date":null,
+    "Event":"Adobe MAX",
+    "Category":"Marketing and PR events",
+    "Keywords":"['adobe', 'max']"
+  },
+  "82":{
+    "Date":null,
+    "Event":"Brighton SEO",
+    "Category":"Marketing and PR events",
+    "Keywords":"['brighton', 'seo']"
+  },
+  "83":{
+    "Date":null,
+    "Event":"London Design Festival",
+    "Category":"Marketing and PR events",
+    "Keywords":"['london', 'design']"
+  },
+  "84":{
+    "Date":null,
+    "Event":"The Marketing Meetup",
+    "Category":"Marketing and PR events",
+    "Keywords":"['marketing', 'meetup']"
+  }
+}
