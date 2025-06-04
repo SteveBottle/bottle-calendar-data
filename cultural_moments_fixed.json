@@ -1,0 +1,756 @@
+{
+  "": [
+    {
+      "Event": "Oscars",
+      "Category": "Awards",
+      "keywords": [
+        "['oscars']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Met Gala",
+      "Category": "Awards",
+      "keywords": [
+        "['met'",
+        "'gala']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Golden Globes",
+      "Category": "Awards",
+      "keywords": [
+        "['golden'",
+        "'globes']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "BAFTA",
+      "Category": "Awards",
+      "keywords": [
+        "['bafta']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Grammys",
+      "Category": "Awards",
+      "keywords": [
+        "['grammys']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Brits",
+      "Category": "Awards",
+      "keywords": [
+        "['brits']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Soap awards",
+      "Category": "Awards",
+      "keywords": [
+        "['soap']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Paris Fashion Week",
+      "Category": "Fashion",
+      "keywords": [
+        "['paris'",
+        "'fashion']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Milan Fashion Week",
+      "Category": "Fashion",
+      "keywords": [
+        "['milan'",
+        "'fashion']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "New York fashion week",
+      "Category": "Fashion",
+      "keywords": [
+        "['new'",
+        "'york'",
+        "'fashion']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "London Fashion week",
+      "Category": "Fashion",
+      "keywords": [
+        "['london'",
+        "'fashion']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Tokyo Fashion Week",
+      "Category": "Fashion",
+      "keywords": [
+        "['tokyo'",
+        "'fashion']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Copenhagen fashion week",
+      "Category": "Fashion",
+      "keywords": [
+        "['copenhagen'",
+        "'fashion']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Cannes film festival",
+      "Category": "Fashion",
+      "keywords": [
+        "['cannes'",
+        "'film']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Olympics",
+      "Category": "Sports",
+      "keywords": [
+        "['olympics']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Euros",
+      "Category": "Sports",
+      "keywords": [
+        "['euros']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Tour De France",
+      "Category": "Sports",
+      "keywords": [
+        "['tour'",
+        "'de'",
+        "'france']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "SuperBowl",
+      "Category": "Sports",
+      "keywords": [
+        "['superbowl']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Wimbledon",
+      "Category": "Sports",
+      "keywords": [
+        "['wimbledon']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "F1 Grand Prix",
+      "Category": "Sports",
+      "keywords": [
+        "['grand'",
+        "'prix']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Rugby world cup",
+      "Category": "Sports",
+      "keywords": [
+        "['rugby'",
+        "'world'",
+        "'cup']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Cricket world cup",
+      "Category": "Sports",
+      "keywords": [
+        "['cricket'",
+        "'world'",
+        "'cup']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Oxford Cambridge boat race",
+      "Category": "Sports",
+      "keywords": [
+        "['oxford'",
+        "'cambridge'",
+        "'boat'",
+        "'race']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Six nations rugby",
+      "Category": "Sports",
+      "keywords": [
+        "['six'",
+        "'nations'",
+        "'rugby']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "London Marathon",
+      "Category": "Sports",
+      "keywords": [
+        "['london'",
+        "'marathon']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "FIFA world cup",
+      "Category": "Sports",
+      "keywords": [
+        "['fifa'",
+        "'world'",
+        "'cup']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "CIPR excellence awards",
+      "Category": "PR and marketing awards",
+      "keywords": [
+        "['cipr'",
+        "'excellence']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Drum awards",
+      "Category": "PR and marketing awards",
+      "keywords": [
+        "['drum']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "PRCA awards",
+      "Category": "PR and marketing awards",
+      "keywords": [
+        "['prca']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "PR week awards",
+      "Category": "PR and marketing awards",
+      "keywords": [
+        "['pr']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Easter",
+      "Category": "Religious dates",
+      "keywords": [
+        "['easter']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Shrove Tuesday",
+      "Category": "Religious dates",
+      "keywords": [
+        "['shrove'",
+        "'tuesday']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Ash Wednesday",
+      "Category": "Religious dates",
+      "keywords": [
+        "['ash'",
+        "'wednesday']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Chinese New Year",
+      "Category": "Religious dates",
+      "keywords": [
+        "['chinese'",
+        "'new'",
+        "'year']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Ramadan",
+      "Category": "Religious dates",
+      "keywords": [
+        "['ramadan']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Eid",
+      "Category": "Religious dates",
+      "keywords": [
+        "['eid']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Diwali",
+      "Category": "Religious dates",
+      "keywords": [
+        "['diwali']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "hanukkah",
+      "Category": "Religious dates",
+      "keywords": [
+        "['hanukkah']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Yom Kippur",
+      "Category": "Religious dates",
+      "keywords": [
+        "['yom'",
+        "'kippur']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Mothers day",
+      "Category": "Religious dates",
+      "keywords": [
+        "['mothers']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Fathers day",
+      "Category": "Religious dates",
+      "keywords": [
+        "['fathers']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Glastonbury",
+      "Category": "Festivals",
+      "keywords": [
+        "['glastonbury']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Edinburgh fringe",
+      "Category": "Festivals",
+      "keywords": [
+        "['edinburgh'",
+        "'fringe']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Reading",
+      "Category": "Festivals",
+      "keywords": [
+        "['reading']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Leeds",
+      "Category": "Festivals",
+      "keywords": [
+        "['leeds']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Coachella",
+      "Category": "Festivals",
+      "keywords": [
+        "['coachella']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Radio 1 big weekend",
+      "Category": "Festivals",
+      "keywords": [
+        "['radio'",
+        "'big'",
+        "'weekend']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Download",
+      "Category": "Festivals",
+      "keywords": [
+        "['download']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Creamfields",
+      "Category": "Festivals",
+      "keywords": [
+        "['creamfields']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Latitude",
+      "Category": "Festivals",
+      "keywords": [
+        "['latitude']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Truck",
+      "Category": "Festivals",
+      "keywords": [
+        "['truck']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Burning man",
+      "Category": "Festivals",
+      "keywords": [
+        "['burning'",
+        "'man']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Notting Hill Carnival",
+      "Category": "Festivals",
+      "keywords": [
+        "['notting'",
+        "'hill'",
+        "'carnival']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Back to school",
+      "Category": "Events",
+      "keywords": [
+        "['back'",
+        "'to'",
+        "'school']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Royal Ascot",
+      "Category": "Events",
+      "keywords": [
+        "['royal'",
+        "'ascot']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Henley Regatta",
+      "Category": "Events",
+      "keywords": [
+        "['henley'",
+        "'regatta']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Buckingham palace Garden Party",
+      "Category": "Events",
+      "keywords": [
+        "['buckingham'",
+        "'palace'",
+        "'garden'",
+        "'party']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Chelsea Flower show",
+      "Category": "Events",
+      "keywords": [
+        "['chelsea'",
+        "'flower'",
+        "'show']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Cheltenham",
+      "Category": "Events",
+      "keywords": [
+        "['cheltenham']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Grand national",
+      "Category": "Events",
+      "keywords": [
+        "['grand'",
+        "'national']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Trooping the colour",
+      "Category": "Events",
+      "keywords": [
+        "['trooping'",
+        "'colour']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "The BBC proms",
+      "Category": "Events",
+      "keywords": [
+        "['bbc'",
+        "'proms']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Crufts",
+      "Category": "Events",
+      "keywords": [
+        "['crufts']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Rememberance Sunday",
+      "Category": "Events",
+      "keywords": [
+        "['rememberance'",
+        "'sunday']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Children in need",
+      "Category": "Events",
+      "keywords": [
+        "['children'",
+        "'in'",
+        "'need']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Daylight savings",
+      "Category": "Events",
+      "keywords": [
+        "['daylight'",
+        "'savings']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "A level and GCSE results days",
+      "Category": "Events",
+      "keywords": [
+        "['a'",
+        "'level'",
+        "'and'",
+        "'gcse'",
+        "'results'",
+        "'days']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "End of daylight savings",
+      "Category": "Events",
+      "keywords": [
+        "['end'",
+        "'daylight'",
+        "'savings']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Rememberance day",
+      "Category": "Events",
+      "keywords": [
+        "['rememberance']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Black Friday",
+      "Category": "Events",
+      "keywords": [
+        "['black'",
+        "'friday']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Cyber Monday",
+      "Category": "Events",
+      "keywords": [
+        "['cyber'",
+        "'monday']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Christmas jumper day",
+      "Category": "Events",
+      "keywords": [
+        "['christmas'",
+        "'jumper']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Strictly",
+      "Category": "Annual TV shows",
+      "keywords": [
+        "['strictly']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Bake Off",
+      "Category": "Annual TV shows",
+      "keywords": [
+        "['bake'",
+        "'off']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "I'm a celebrity",
+      "Category": "Annual TV shows",
+      "keywords": [
+        "['a'",
+        "'celebrity']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "General election",
+      "Category": "Political events",
+      "keywords": [
+        "['general'",
+        "'election']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "G20 summit",
+      "Category": "Political events",
+      "keywords": [
+        "['summit']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "G7 summit",
+      "Category": "Political events",
+      "keywords": [
+        "['summit']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "COP 30",
+      "Category": "Political events",
+      "keywords": [
+        "['cop']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "NATO",
+      "Category": "Political events",
+      "keywords": [
+        "['nato']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "State Opening of Parliament",
+      "Category": "Political events",
+      "keywords": [
+        "['state'",
+        "'opening'",
+        "'parliament']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Adobe MAX",
+      "Category": "Marketing and PR events",
+      "keywords": [
+        "['adobe'",
+        "'max']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "Brighton SEO",
+      "Category": "Marketing and PR events",
+      "keywords": [
+        "['brighton'",
+        "'seo']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "London Design Festival",
+      "Category": "Marketing and PR events",
+      "keywords": [
+        "['london'",
+        "'design']"
+      ],
+      "category": "Cultural Moments"
+    },
+    {
+      "Event": "The Marketing Meetup",
+      "Category": "Marketing and PR events",
+      "keywords": [
+        "['marketing'",
+        "'meetup']"
+      ],
+      "category": "Cultural Moments"
+    }
+  ]
+}
