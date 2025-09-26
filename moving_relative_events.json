@@ -1,0 +1,247 @@
+{
+  "relative-events": [
+    {
+      "title": "Black Friday",
+      "category": "Seasonal & Traditional",
+      "keywords": "black, friday, shopping, sales, deals, retail, discounts, thanksgiving, stores, bargains",
+      "relativeDate": {
+        "type": "relativeToNthWeekday",
+        "baseMonth": 11,
+        "baseWeek": 4,
+        "baseDayOfWeek": 4,
+        "offsetDays": 1
+      }
+    },
+    {
+      "title": "Cyber Monday",
+      "category": "Seasonal & Traditional",
+      "keywords": "cyber, monday, online, shopping, deals, ecommerce, digital, sales, internet, discounts",
+      "relativeDate": {
+        "type": "relativeToNthWeekday",
+        "baseMonth": 11,
+        "baseWeek": 4,
+        "baseDayOfWeek": 4,
+        "offsetDays": 4
+      }
+    },
+    {
+      "title": "Small Business Saturday",
+      "category": "Industry & Professional",
+      "keywords": "small, business, saturday, local, shopping, entrepreneurs, community, support, economy, retail",
+      "relativeDate": {
+        "type": "relativeToNthWeekday",
+        "baseMonth": 11,
+        "baseWeek": 4,
+        "baseDayOfWeek": 4,
+        "offsetDays": 2
+      }
+    },
+    {
+      "title": "Drawing Day",
+      "category": "Fashion & Style",
+      "keywords": "drawing, culture, arts, entertainment, creative, artistic, media, performance, show, fun",
+      "relativeDate": {
+        "type": "dayOfWeek",
+        "month": 5,
+        "week": 1,
+        "dayOfWeek": 6
+      }
+    },
+    {
+      "title": "World Leprosy Day",
+      "category": "Health & Wellbeing",
+      "keywords": "leprosy, hansens disease, mycobacterium, treatment, cure, stigma, skin, nerve damage, disability, elimination, medicine, medical, healthcare, prevention, awareness",
+      "relativeDate": {
+        "type": "dayOfWeek",
+        "month": 1,
+        "week": -1,
+        "dayOfWeek": 0
+      }
+    },
+    {
+      "title": "Rare Disease Day",
+      "category": "Health & Wellbeing",
+      "keywords": "rare, disease, wellness, medical, healthcare, prevention, treatment, support, research, care",
+      "relativeDate": {
+        "type": "lastDayOfMonth",
+        "month": 2
+      }
+    },
+    {
+      "title": "Mothers Day",
+      "category": "Seasonal & Traditional",
+      "keywords": "mothers, mom, mama, parent, family, love, flowers, cards, gifts, brunch",
+      "relativeDate": {
+        "type": "relativeToEaster",
+        "offsetDays": -21
+      }
+    },
+    {
+      "title": "Good Friday",
+      "category": "Religious & Spiritual",
+      "keywords": "good, friday, faith, spiritual, religious, worship, prayer, sacred, holy, divine",
+      "relativeDate": {
+        "type": "relativeToEaster",
+        "offsetDays": -2
+      }
+    },
+    {
+      "title": "Easter",
+      "category": "Religious & Spiritual",
+      "keywords": "easter, bunny, eggs, chocolate, spring, resurrection, christian, holiday, basket, hunt",
+      "relativeDate": {
+        "type": "relativeToEaster",
+        "offsetDays": 0
+      }
+    },
+    {
+      "title": "Eid al-Fitr",
+      "category": "Religious & Spiritual",
+      "keywords": "eid, fitr, faith, spiritual, religious, worship, prayer, sacred, holy, divine",
+      "relativeDate": {
+        "type": "lunarCalendar",
+        "event": "eidAlFitr"
+      }
+    },
+    {
+      "title": "Ramadan",
+      "category": "Religious & Spiritual",
+      "keywords": "ramadan, fasting, islam, muslim, iftar, suhoor, prayer, mosque, quran, eid",
+      "relativeDate": {
+        "type": "lunarCalendar",
+        "event": "ramadanStart"
+      }
+    },
+    {
+      "title": "Pisco Sour Day",
+      "category": "Food & Lifestyle",
+      "keywords": "sour, pisco, cocktail, peru, chile, brandy, lime, egg white, bitters, mixed drink, bartending, spirits",
+      "relativeDate": {
+        "type": "dayOfWeek",
+        "month": 2,
+        "week": 1,
+        "dayOfWeek": 6
+      }
+    },
+    {
+      "title": "Palm Sunday",
+      "category": "Religious & Spiritual",
+      "keywords": "palm, sunday, faith, spiritual, religious, worship, prayer, sacred, holy, divine",
+      "relativeDate": {
+        "type": "relativeToEaster",
+        "offsetDays": -7
+      }
+    },
+    {
+      "title": "Free Comic Book Day",
+      "category": "Cultural & Entertainment",
+      "keywords": "free, comic, book, culture, arts, entertainment, creative, artistic, media, fun",
+      "relativeDate": {
+        "type": "dayOfWeek",
+        "month": 5,
+        "week": 1,
+        "dayOfWeek": 6
+      }
+    },
+    {
+      "title": "World Password Day",
+      "category": "Technology & Innovation",
+      "keywords": "password, cybersecurity, authentication, login, security, protection, hacking, digital, online, credentials",
+      "relativeDate": {
+        "type": "dayOfWeek",
+        "month": 5,
+        "week": 1,
+        "dayOfWeek": 4
+      }
+    },
+    {
+      "title": "World Pangolin Day",
+      "category": "Environmental & Sustainability",
+      "keywords": "pangolin, wildlife, conservation, habitat, species, nature, protection, endangered, ecosystem, biodiversity",
+      "relativeDate": {
+        "type": "dayOfWeek",
+        "month": 2,
+        "week": 3,
+        "dayOfWeek": 6
+      }
+    },
+    {
+      "title": "National Wear Red Day",
+      "category": "Fashion & Style",
+      "keywords": "wear, red, fashion, style, clothing, design, trend, wardrobe, apparel, accessories",
+      "relativeDate": {
+        "type": "dayOfWeek",
+        "month": 2,
+        "week": 1,
+        "dayOfWeek": 5
+      }
+    },
+    {
+      "title": "World Book Day",
+      "category": "Education & Learning",
+      "keywords": "book, reading, literature, author, novel, publishing, unesco, copyright, literacy, stories",
+      "relativeDate": {
+        "type": "dayOfWeek",
+        "month": 3,
+        "week": 1,
+        "dayOfWeek": 4
+      }
+    },
+    {
+      "title": "Labor Day",
+      "category": "Industry & Professional",
+      "keywords": "labor, workers, holiday, september, unions, employment, weekend, barbecue, end of summer, parade",
+      "relativeDate": {
+        "type": "dayOfWeek",
+        "month": 9,
+        "week": 1,
+        "dayOfWeek": 1
+      }
+    },
+    {
+      "title": "Presidents' Day",
+      "category": "Seasonal & Traditional",
+      "keywords": "presidents, washington, lincoln, holiday, federal, government, history, american, leaders, founding fathers",
+      "relativeDate": {
+        "type": "dayOfWeek",
+        "month": 2,
+        "week": 3,
+        "dayOfWeek": 1
+      }
+    },
+    {
+      "title": "World Smile Day",
+      "category": "Seasonal & Traditional",
+      "keywords": "smile, happiness, kindness, positivity, joy, cheerful, friendly, expression, mood, spread",
+      "relativeDate": {
+        "type": "dayOfWeek",
+        "month": 10,
+        "week": 1,
+        "dayOfWeek": 5
+      }
+    },
+    {
+      "title": "Giving Tuesday",
+      "category": "Political & Current Affairs",
+      "keywords": "giving, tuesday, charity, donation, generosity, nonprofit, volunteer, philanthropy, kindness, impact",
+      "relativeDate": {
+        "type": "relativeToNthWeekday",
+        "baseMonth": 11,
+        "baseWeek": 4,
+        "baseDayOfWeek": 4,
+        "offsetDays": 5
+      }
+    },
+    {
+      "title": "National Mother-in-Law Day",
+      "category": "Seasonal & Traditional",
+      "keywords": "mother, law, family, appreciation, relationship, marriage, respect, love, in-laws, gratitude",
+      "relativeDate": {
+        "type": "dayOfWeek",
+        "month": 10,
+        "week": 4,
+        "dayOfWeek": 0
+      }
+    }
+  ]
+}
